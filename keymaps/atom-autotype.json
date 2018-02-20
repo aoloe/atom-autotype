@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-a": "atom-autotype:start",
+    "escape": "atom-autotype:stop"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Start atom-autotype",
+        "command": "atom-autotype:start"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-autotype",
+          "submenu": [
+            {
+              "label": "Start",
+              "command": "atom-autotype:start"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
