@@ -179,6 +179,7 @@ $ ./node_modules/.bin/babel-node --presets es2015 test
 
 ## Todo
 
+- remove "atom" from the internal names (`atom-autotype`)
 - add a (optional?) delay between the commands (`{%-+`, where both `-` and `+` are optional)
 - add two possible parameters for the commands:
   - `+`: separator for the parameter of the command
